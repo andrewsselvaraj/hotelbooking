@@ -10,7 +10,7 @@ import project.selfefd.dto.UserDTO;
 public class LoginController {
 	
 
-    public ResponseEntity<UserDTO> getCountry() {
+    public ResponseEntity<UserDTO> getUserInfo() {
     	
     	UserDTO user = new UserDTO();
         
