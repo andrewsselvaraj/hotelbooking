@@ -1,4 +1,4 @@
-package project.hotelbooking;
+package project.selfefd;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
