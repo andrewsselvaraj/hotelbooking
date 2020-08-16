@@ -1,0 +1,86 @@
+1.hashcoding
+2.overlading
+3.return type over
+4.arraylist vector
+5.generic
+6.how to sort array 
+7.object hashmap object comparrable
+
+8.hashset
+9.treeset
+10.hashmap hasing technic
+11.duplicate hashmap key address
+
+12.thread extendthread 
+13.notify notifyall
+14.sleep wait
+15.ExecutorService
+
+
+
+16.functinalinteface - @functionalinterface default static
+17.lamda
+18.stream parralle stram 
+19.map flat map
+
+Spring boot
+20.DI -> type set construction interfaceinjection code to interface,Scope,lazyloading
+22.Spring Boot given
+21.@Qualifier,@Primary,@Component@Bean@controller @restController@Bean@Copomnent@Autowiring by Name Bytime
+22.@Transction Attributes
+
+hibername
+23.multipleDB Coonection
+24.Many2Many
+25.Cache
+26.Transaction
+
+webservice:
+26.Soap vs Rest
+27.Soa
+
+
+28.Performance
+profileTool
+Jprofiler
+
+
+
+
+29.Microservices Why?
+30. Eureka prmothesus circuit breaker
+zuul prxoy config repository acutator swagger loadbalncer
+12 factor
+
+
+//--@annotation
+//--spring load singleton how 
+//--
+		
+
+31.security ,oauth, 
+32.jks
+
+33. DesignPattern
+single facotry front 
+
+34.Service 
+35.Saga design pattern
+36.CQRS Pattern
+
+hands on
+
+1.FileRead and write
+2.Sort
+3.polindrome
+
+
+	
+
+
+
+
+
+
+
+

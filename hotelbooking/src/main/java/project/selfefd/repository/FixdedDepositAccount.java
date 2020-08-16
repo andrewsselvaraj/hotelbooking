@@ -7,4 +7,4 @@ import org.springframework.stereotype.Repository;
 
 import project.selfefd.bean.*;
 @Repository
-public interface SeatsRepository extends JpaRepository<Seats,Long>{}
+public interface FixdedDepositAccount extends JpaRepository<CustomerInfo,Long>{}

@@ -14,7 +14,7 @@ import lombok.Setter;
 @Entity
 @Table(name = "userinfo")
 
-public class UserInfo implements Serializable{
+public class CustomerInfo implements Serializable{
 
 	private static final long serialVersionUID = 9037059103772839862L;
 	 @Id

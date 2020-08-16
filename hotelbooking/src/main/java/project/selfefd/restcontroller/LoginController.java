@@ -10,9 +10,9 @@ import project.selfefd.dto.UserDTO;
 public class LoginController {
 	
 
-    public ResponseEntity<UserDTO> getUserInfobyLogin() {
+    public ResponseEntity<UserDTO> getUserInfobyLogin(UserDTO user ) {
     	
-    	UserDTO user = new UserDTO();
+
         
         
     	HttpHeaders headers = new HttpHeaders();
